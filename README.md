@@ -1,0 +1,1 @@
+When a string is given, this program does order them lexicographically. So far, we have worked on several exercises which concentrate on the concept of lexicographicaphy. The difference between the previous ones and this one is mainly based on being allowed varying lenght of subsamples (ranging from 1 to 3). 
